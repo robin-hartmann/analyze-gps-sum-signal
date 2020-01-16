@@ -1,12 +1,10 @@
 {
-  "name": "analyze-gps-sequence",
+  "name": "analyze-gps-sum-signal",
   "version": "0.1.0",
   "author": "contact.robin.hartmann@gmail.com",
   "license": "MIT",
   "main": "./transpiled/lib/index.js",
-  "bin": {
-    "analyze-gps-sequence": "./transpiled/bin/index.js"
-  },
+  "bin": "./transpiled/bin/index.js",
   "devDependencies": {
     "@types/node": "^13.1.6",
     "shx": "^0.3.2",

@@ -23,7 +23,7 @@
     {
       "label": "Run via node",
       "type": "shell",
-      "command": "npm run start:js --silent ./examples/gps-sequence.txt",
+      "command": "npm run start:js --silent ./examples/gps-sequence-6.txt",
       "group": "test",
       "presentation": {
         "panel": "shared",
@@ -37,7 +37,7 @@
     {
       "label": "Run via node without building",
       "type": "shell",
-      "command": "npm run start-only:js --silent ./examples/gps-sequence.txt",
+      "command": "npm run start-only:js --silent ./examples/gps-sequence-6.txt",
       "group": "test",
       "presentation": {
         "panel": "shared",
@@ -47,7 +47,7 @@
     {
       "label": "Run via ts-node",
       "type": "shell",
-      "command": "npm run start:ts --silent ./examples/gps-sequence.txt",
+      "command": "npm run start:ts --silent ./examples/gps-sequence-6.txt",
       "group": {
         "kind": "test",
         "isDefault": true
