@@ -100,7 +100,7 @@ This means the Gold code generator for satellite 1 looks like this:
 
 <img src="docs/images/gold-code-generator-satellite-1.png" alt="Gold code generator for satellite 1" width="400" />
 
-### [Fitting Examples for GPS Sequences](examples)
+### [Fitting Examples of GPS Sequences](examples)
 
 ## Built With
 
