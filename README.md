@@ -108,7 +108,7 @@ This means the Gold code generator for satellite 1 looks like this:
 
 ## Authors
 
-* **Robin Hartmann** - [robin-hartmann](https://github.com/robin-hartmann)
+* **Robin Hartmann** - *Project realization* - [robin-hartmann](https://github.com/robin-hartmann)
 * **Dirk Hoffmann** - *Project idea, configurations, examples and Gold code generator graphic* - [dirkwhoffmann](https://github.com/dirkwhoffmann)
 
 ## License
