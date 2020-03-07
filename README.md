@@ -104,7 +104,7 @@ This project is intended to be used with Visual Studio Code and the following ex
 
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code
 
-## 🔧 Built With
+## 🧰 Built With
 
 * [meow](https://github.com/sindresorhus/meow) - CLI app helper
 
