@@ -115,4 +115,4 @@ This project is intended to be used with Visual Studio Code and the following ex
 
 ## 📃 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
